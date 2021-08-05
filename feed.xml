@@ -3,7 +3,7 @@
     <title>iOS, Python thoughts from Vignesh</title>
     <link href="https://vienconsulting.github.io/vienconsulting.github.io/feed.xml" rel="self" />
     <link href="https://vienconsulting.github.io/vienconsulting.github.io" />
-    <updated>2021-08-05T11:49:34+02:00</updated>
+    <updated>2021-08-05T11:51:23+02:00</updated>
     <author>
         <name>Vignesh</name>
     </author>
@@ -17,8 +17,16 @@
         <link href="https://vienconsulting.github.io/vienconsulting.github.io/faster-swiftui-previews-in-siumulator.html"/>
         <id>https://vienconsulting.github.io/vienconsulting.github.io/faster-swiftui-previews-in-siumulator.html</id>
 
-        <updated>2021-08-05T11:49:34+02:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2021-08-05T11:51:23+02:00</updated>
+            <summary>
+                <![CDATA[
+                    print("testing testing...")
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><code>print("testing testing...")</code></p>
+            ]]>
+        </content>
     </entry>
 </feed>

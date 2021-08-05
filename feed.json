@@ -13,13 +13,15 @@
             "id": "https://vienconsulting.github.io/vienconsulting.github.io/faster-swiftui-previews-in-siumulator.html",
             "url": "https://vienconsulting.github.io/vienconsulting.github.io/faster-swiftui-previews-in-siumulator.html",
             "title": "Faster SwiftUI previews in Siumulator",
+            "summary": "print(\"testing testing...\")",
+            "content_html": "<p><code>print(\"testing testing...\")</code></p>",
             "author": {
                 "name": "Vignesh"
             },
             "tags": [
             ],
             "date_published": "2021-08-05T11:48:02+02:00",
-            "date_modified": "2021-08-05T11:49:34+02:00"
+            "date_modified": "2021-08-05T11:51:23+02:00"
         }
     ]
 }
